@@ -1,0 +1,12 @@
+c:\users\sefa\documents\visual studio 2013\Projects\TezNTVHaberCekme\TezNTVHaberCekme\bin\Debug\TezNTVHaberCekme.exe.config
+C:\Users\Sefa\Documents\Visual Studio 2013\Projects\TezNTVHaberCekme\TezNTVHaberCekme\bin\Debug\TezNTVHaberCekme.exe
+C:\Users\Sefa\Documents\Visual Studio 2013\Projects\TezNTVHaberCekme\TezNTVHaberCekme\bin\Debug\TezNTVHaberCekme.pdb
+C:\Users\Sefa\Documents\Visual Studio 2013\Projects\TezNTVHaberCekme\TezNTVHaberCekme\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Sefa\Documents\Visual Studio 2013\Projects\TezNTVHaberCekme\TezNTVHaberCekme\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Sefa\Documents\Visual Studio 2013\Projects\TezNTVHaberCekme\TezNTVHaberCekme\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Sefa\Documents\Visual Studio 2013\Projects\TezNTVHaberCekme\TezNTVHaberCekme\obj\Debug\TezNTVHaberCekme.csprojResolveAssemblyReference.cache
+C:\Users\Sefa\Documents\Visual Studio 2013\Projects\TezNTVHaberCekme\TezNTVHaberCekme\obj\Debug\TezNTVHaberCekme.Form1.resources
+C:\Users\Sefa\Documents\Visual Studio 2013\Projects\TezNTVHaberCekme\TezNTVHaberCekme\obj\Debug\TezNTVHaberCekme.Properties.Resources.resources
+C:\Users\Sefa\Documents\Visual Studio 2013\Projects\TezNTVHaberCekme\TezNTVHaberCekme\obj\Debug\TezNTVHaberCekme.csproj.GenerateResource.Cache
+C:\Users\Sefa\Documents\Visual Studio 2013\Projects\TezNTVHaberCekme\TezNTVHaberCekme\obj\Debug\TezNTVHaberCekme.exe
+C:\Users\Sefa\Documents\Visual Studio 2013\Projects\TezNTVHaberCekme\TezNTVHaberCekme\obj\Debug\TezNTVHaberCekme.pdb
